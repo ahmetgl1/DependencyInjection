@@ -22,7 +22,7 @@ Bu proje, dependency injection prensibini uygulamak için bir örnek sunmaktadı
 - `ProductService`, bu arayüzü uygular ve ürün işlemlerini gerçekleştirir.
 - `Startup.cs` dosyasında `ConfigureServices` metodu, bağımlılıkların enjekte edilmesini yapılandırır.
 
-## Detaylı Teorik İncelemek İsterseniz  👉  [Medium](https://www.google.com)  dan ulaabilirsiniz !
+## Detaylı Teorik İncelemek İsterseniz  👉  [Medium]([https://www.google.com](https://medium.com/@ahmetfatih.guzeller/dependency-injection-prensibi-ve-temel-kullan%C4%B1m-%C5%9Fekilleri-f396daf80f08)https://medium.com/@ahmetfatih.guzeller/dependency-injection-prensibi-ve-temel-kullan%C4%B1m-%C5%9Fekilleri-f396daf80f08)  dan ulaŞabilirsiniz !
 
 
 
